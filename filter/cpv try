@@ -1,0 +1,806 @@
+{
+  "45000000": {
+    "send_to": [
+      "CONSTRUCAO"
+    ],
+    "category": "General Construction"
+  },
+  "45331110": {
+    "send_to": [
+      "AVAC",
+      "CONSTRUCAO"
+    ],
+    "category": "HVAC Core Installation"
+  },
+  "45331200": {
+    "send_to": [
+      "AVAC",
+      "CONSTRUCAO"
+    ],
+    "category": "HVAC Core Installation"
+  },
+  "45331220": {
+    "send_to": [
+      "AVAC",
+      "CONSTRUCAO"
+    ],
+    "category": "HVAC Core Installation"
+  },
+  "45331230": {
+    "send_to": [
+      "AVAC",
+      "CONSTRUCAO"
+    ],
+    "category": "HVAC Core Installation"
+  },
+  "45331231": {
+    "send_to": [
+      "AVAC",
+      "Manutenção",
+      "CONSTRUCAO"
+    ],
+    "category": "HVAC Core Installation"
+  },
+  "50710000": {
+    "send_to": [
+      "Manutenção"
+    ],
+    "category": "Maintenance Core"
+  },
+  "50711000": {
+    "send_to": [
+      "Manutenção"
+    ],
+    "category": "Maintenance Core"
+  },
+  "50712000": {
+    "send_to": [
+      "Manutenção"
+    ],
+    "category": "Maintenance Core"
+  },
+  "50720000": {
+    "send_to": [
+      "Manutenção"
+    ],
+    "category": "Maintenance Core"
+  },
+  "50721000": {
+    "send_to": [
+      "Manutenção"
+    ],
+    "category": "Maintenance Core"
+  },
+  "50730000": {
+    "send_to": [
+      "Manutenção"
+    ],
+    "category": "Maintenance Core"
+  },
+  "39717200": {
+    "send_to": [
+      "AVAC"
+    ],
+    "category": "HVAC Equipment Supply"
+  },
+  "39714100": {
+    "send_to": [
+      "AVAC"
+    ],
+    "category": "HVAC Equipment Supply"
+  },
+  "42510000": {
+    "send_to": [
+      "AVAC"
+    ],
+    "category": "HVAC Equipment Supply"
+  },
+  "42511110": {
+    "send_to": [
+      "AVAC"
+    ],
+    "category": "HVAC Equipment Supply"
+  },
+  "42512000": {
+    "send_to": [
+      "AVAC"
+    ],
+    "category": "HVAC Equipment Supply"
+  },
+  "42512300": {
+    "send_to": [
+      "AVAC",
+      "Manutenção"
+    ],
+    "category": "HVAC Equipment Supply"
+  },
+  "42512500": {
+    "send_to": [
+      "Manutenção"
+    ],
+    "category": "HVAC Equipment Supply"
+  },
+  "42513200": {
+    "send_to": [
+      "AVAC"
+    ],
+    "category": "HVAC Equipment Supply"
+  },
+  "42514300": {
+    "send_to": [
+      "Manutenção"
+    ],
+    "category": "HVAC Equipment Supply"
+  },
+  "42514310": {
+    "send_to": [
+      "Manutenção"
+    ],
+    "category": "HVAC Equipment Supply"
+  },
+  "42113130": {
+    "send_to": [
+      "AVAC"
+    ],
+    "category": "HVAC Equipment Supply"
+  },
+  "42113161": {
+    "send_to": [
+      "AVAC"
+    ],
+    "category": "HVAC Equipment Supply"
+  },
+  "42122220": {
+    "send_to": [
+      "AVAC"
+    ],
+    "category": "HVAC Equipment Supply"
+  },
+  "42124200": {
+    "send_to": [
+      "Manutenção"
+    ],
+    "category": "HVAC Equipment Supply"
+  },
+  "42161000": {
+    "send_to": [
+      "AVAC"
+    ],
+    "category": "HVAC Equipment Supply"
+  },
+  "42961100": {
+    "send_to": [
+      "Manutenção"
+    ],
+    "category": "HVAC Equipment Supply"
+  },
+  "43328000": {
+    "send_to": [
+      "AVAC"
+    ],
+    "category": "HVAC Equipment Supply"
+  },
+  "44115700": {
+    "send_to": [
+      "Manutenção"
+    ],
+    "category": "HVAC Equipment Supply"
+  },
+  "44520000": {
+    "send_to": [
+      "Manutenção"
+    ],
+    "category": "HVAC Equipment Supply"
+  },
+  "44600000": {
+    "send_to": [
+      "AVAC"
+    ],
+    "category": "HVAC Equipment Supply"
+  },
+  "44620000": {
+    "send_to": [
+      "AVAC"
+    ],
+    "category": "HVAC Equipment Supply"
+  },
+  "33100000": {
+    "send_to": [
+      "AVAC"
+    ],
+    "category": "HVAC Equipment Supply"
+  },
+  "50532000": {
+    "send_to": [
+      "Manutenção"
+    ],
+    "category": "Electromechanical and Building Maintenance Services"
+  },
+  "50532200": {
+    "send_to": [
+      "Manutenção"
+    ],
+    "category": "Electromechanical and Building Maintenance Services"
+  },
+  "50532300": {
+    "send_to": [
+      "Manutenção"
+    ],
+    "category": "Electromechanical and Building Maintenance Services"
+  },
+  "50532400": {
+    "send_to": [
+      "Manutenção"
+    ],
+    "category": "Electromechanical and Building Maintenance Services"
+  },
+  "50531000": {
+    "send_to": [
+      "Manutenção"
+    ],
+    "category": "Electromechanical and Building Maintenance Services"
+  },
+  "50531300": {
+    "send_to": [
+      "Manutenção"
+    ],
+    "category": "Electromechanical and Building Maintenance Services"
+  },
+  "50530000": {
+    "send_to": [
+      "Manutenção"
+    ],
+    "category": "Electromechanical and Building Maintenance Services"
+  },
+  "50500000": {
+    "send_to": [
+      "Manutenção"
+    ],
+    "category": "Electromechanical and Building Maintenance Services"
+  },
+  "50511000": {
+    "send_to": [
+      "Manutenção"
+    ],
+    "category": "Electromechanical and Building Maintenance Services"
+  },
+  "50413200": {
+    "send_to": [
+      "Manutenção"
+    ],
+    "category": "Electromechanical and Building Maintenance Services"
+  },
+  "50413000": {
+    "send_to": [
+      "Manutenção"
+    ],
+    "category": "Electromechanical and Building Maintenance Services"
+  },
+  "50610000": {
+    "send_to": [
+      "Manutenção"
+    ],
+    "category": "Electromechanical and Building Maintenance Services"
+  },
+  "50310000": {
+    "send_to": [
+      "Manutenção"
+    ],
+    "category": "Electromechanical and Building Maintenance Services"
+  },
+  "50312000": {
+    "send_to": [
+      "Manutenção"
+    ],
+    "category": "Electromechanical and Building Maintenance Services"
+  },
+  "50324100": {
+    "send_to": [
+      "Manutenção"
+    ],
+    "category": "Electromechanical and Building Maintenance Services"
+  },
+  "50324200": {
+    "send_to": [
+      "Manutenção"
+    ],
+    "category": "Electromechanical and Building Maintenance Services"
+  },
+  "50330000": {
+    "send_to": [
+      "Manutenção"
+    ],
+    "category": "Electromechanical and Building Maintenance Services"
+  },
+  "50400000": {
+    "send_to": [
+      "Manutenção"
+    ],
+    "category": "Electromechanical and Building Maintenance Services"
+  },
+  "50410000": {
+    "send_to": [
+      "Manutenção"
+    ],
+    "category": "Electromechanical and Building Maintenance Services"
+  },
+  "50433000": {
+    "send_to": [
+      "Manutenção"
+    ],
+    "category": "Electromechanical and Building Maintenance Services"
+  },
+  "50750000": {
+    "send_to": [
+      "Manutenção"
+    ],
+    "category": "Electromechanical and Building Maintenance Services"
+  },
+  "50740000": {
+    "send_to": [
+      "Manutenção"
+    ],
+    "category": "Electromechanical and Building Maintenance Services"
+  },
+  "50870000": {
+    "send_to": [
+      "Manutenção"
+    ],
+    "category": "Electromechanical and Building Maintenance Services"
+  },
+  "50880000": {
+    "send_to": [
+      "Manutenção"
+    ],
+    "category": "Electromechanical and Building Maintenance Services"
+  },
+  "50881000": {
+    "send_to": [
+      "Manutenção"
+    ],
+    "category": "Electromechanical and Building Maintenance Services"
+  },
+  "50883000": {
+    "send_to": [
+      "Manutenção"
+    ],
+    "category": "Electromechanical and Building Maintenance Services"
+  },
+  "71314000": {
+    "send_to": [
+      "AVAC"
+    ],
+    "category": "Building Technical Systems and Engineering Services"
+  },
+  "71314100": {
+    "send_to": [
+      "Manutenção"
+    ],
+    "category": "Building Technical Systems and Engineering Services"
+  },
+  "71315000": {
+    "send_to": [
+      "Manutenção"
+    ],
+    "category": "Building Technical Systems and Engineering Services"
+  },
+  "71315400": {
+    "send_to": [
+      "Manutenção"
+    ],
+    "category": "Building Technical Systems and Engineering Services"
+  },
+  "71350000": {
+    "send_to": [
+      "Manutenção"
+    ],
+    "category": "Building Technical Systems and Engineering Services"
+  },
+  "71356300": {
+    "send_to": [
+      "Manutenção"
+    ],
+    "category": "Building Technical Systems and Engineering Services"
+  },
+  "71311300": {
+    "send_to": [
+      "Manutenção"
+    ],
+    "category": "Building Technical Systems and Engineering Services"
+  },
+  "71630000": {
+    "send_to": [
+      "Manutenção"
+    ],
+    "category": "Building Technical Systems and Engineering Services"
+  },
+  "72261000": {
+    "send_to": [
+      "Manutenção"
+    ],
+    "category": "Building Technical Systems and Engineering Services"
+  },
+  "72267000": {
+    "send_to": [
+      "Manutenção"
+    ],
+    "category": "Building Technical Systems and Engineering Services"
+  },
+  "72514300": {
+    "send_to": [
+      "Manutenção"
+    ],
+    "category": "Building Technical Systems and Engineering Services"
+  },
+  "79132000": {
+    "send_to": [
+      "Manutenção"
+    ],
+    "category": "Building Technical Systems and Engineering Services"
+  },
+  "65310000": {
+    "send_to": [
+      "Manutenção"
+    ],
+    "category": "Building Technical Systems and Engineering Services"
+  },
+  "65300000": {
+    "send_to": [
+      "Manutenção"
+    ],
+    "category": "Building Technical Systems and Engineering Services"
+  },
+  "65320000": {
+    "send_to": [
+      "Manutenção"
+    ],
+    "category": "Building Technical Systems and Engineering Services"
+  },
+  "51000000": {
+    "send_to": [
+      "Manutenção"
+    ],
+    "category": "Building Technical Systems and Engineering Services"
+  },
+  "51700000": {
+    "send_to": [
+      "Manutenção"
+    ],
+    "category": "Building Technical Systems and Engineering Services"
+  },
+  "45310000": {
+    "send_to": [
+      "Construção"
+    ],
+    "category": "Electrical Installation and Energy Works"
+  },
+  "45315000": {
+    "send_to": [
+      "AVAC",
+      "CONSTRUCAO"
+    ],
+    "category": "Electrical Installation and Energy Works"
+  },
+  "45315100": {
+    "send_to": [
+      "Manutenção",
+      "CONSTRUCAO"
+    ],
+    "category": "Electrical Installation and Energy Works"
+  },
+  "45315300": {
+    "send_to": [
+      "Manutenção",
+      "CONSTRUCAO"
+    ],
+    "category": "Electrical Installation and Energy Works"
+  },
+  "45315500": {
+    "send_to": [
+      "Manutenção",
+      "CONSTRUCAO"
+    ],
+    "category": "Electrical Installation and Energy Works"
+  },
+  "45316000": {
+    "send_to": [
+      "Manutenção",
+      "CONSTRUCAO"
+    ],
+    "category": "Electrical Installation and Energy Works"
+  },
+  "45317000": {
+    "send_to": [
+      "AVAC",
+      "Manutenção",
+      "CONSTRUCAO"
+    ],
+    "category": "Electrical Installation and Energy Works"
+  },
+  "45317200": {
+    "send_to": [
+      "Manutenção",
+      "CONSTRUCAO"
+    ],
+    "category": "Electrical Installation and Energy Works"
+  },
+  "45330000": {
+    "send_to": [
+      "AVAC",
+      "CONSTRUCAO"
+    ],
+    "category": "Electrical Installation and Energy Works"
+  },
+  "45350000": {
+    "send_to": [
+      "AVAC",
+      "CONSTRUCAO"
+    ],
+    "category": "Electrical Installation and Energy Works"
+  },
+  "45351000": {
+    "send_to": [
+      "AVAC",
+      "CONSTRUCAO"
+    ],
+    "category": "Electrical Installation and Energy Works"
+  },
+  "45232141": {
+    "send_to": [
+      "AVAC",
+      "CONSTRUCAO"
+    ],
+    "category": "Electrical Installation and Energy Works"
+  },
+  "45232151": {
+    "send_to": [
+      "AVAC",
+      "CONSTRUCAO"
+    ],
+    "category": "Electrical Installation and Energy Works"
+  },
+  "45232000": {
+    "send_to": [
+      "Manutenção",
+      "CONSTRUCAO"
+    ],
+    "category": "Electrical Installation and Energy Works"
+  },
+  "45232220": {
+    "send_to": [
+      "AVAC",
+      "CONSTRUCAO"
+    ],
+    "category": "Electrical Installation and Energy Works"
+  },
+  "45231221": {
+    "send_to": [
+      "AVAC"
+    ],
+    "category": "Electrical Installation and Energy Works"
+  },
+  "45222300": {
+    "send_to": [
+      "Manutenção",
+      "CONSTRUCAO"
+    ],
+    "category": "Electrical Installation and Energy Works"
+  },
+  "45251200": {
+    "send_to": [
+      "AVAC",
+      "CONSTRUCAO"
+    ],
+    "category": "Electrical Installation and Energy Works"
+  },
+  "45261215": {
+    "send_to": [
+      "AVAC",
+      "CONSTRUCAO"
+    ],
+    "category": "Electrical Installation and Energy Works"
+  },
+  "45262640": {
+    "send_to": [
+      "AVAC",
+      "CONSTRUCAO"
+    ],
+    "category": "Electrical Installation and Energy Works"
+  },
+  "45421110": {
+    "send_to": [
+      "AVAC",
+      "CONSTRUCAO"
+    ],
+    "category": "Electrical Installation and Energy Works"
+  },
+  "9120000": {
+    "send_to": [
+      "AVAC"
+    ],
+    "category": "Electrical Materials and Equipment"
+  },
+  "9331000": {
+    "send_to": [
+      "AVAC",
+      "Manutenção"
+    ],
+    "category": "Electrical Materials and Equipment"
+  },
+  "9331200": {
+    "send_to": [
+      "AVAC"
+    ],
+    "category": "Electrical Materials and Equipment"
+  },
+  "31120000": {
+    "send_to": [
+      "Manutenção",
+      "Construção"
+    ],
+    "category": "Electrical Materials and Equipment"
+  },
+  "31121000": {
+    "send_to": [
+      "Manutenção"
+    ],
+    "category": "Electrical Materials and Equipment"
+  },
+  "31121100": {
+    "send_to": [
+      "Manutenção"
+    ],
+    "category": "Electrical Materials and Equipment"
+  },
+  "31127000": {
+    "send_to": [
+      "Manutenção"
+    ],
+    "category": "Electrical Materials and Equipment"
+  },
+  "31141000": {
+    "send_to": [
+      "Manutenção"
+    ],
+    "category": "Electrical Materials and Equipment"
+  },
+  "31154000": {
+    "send_to": [
+      "Manutenção"
+    ],
+    "category": "Electrical Materials and Equipment"
+  },
+  "31156000": {
+    "send_to": [
+      "Manutenção"
+    ],
+    "category": "Electrical Materials and Equipment"
+  },
+  "31170000": {
+    "send_to": [
+      "Manutenção"
+    ],
+    "category": "Electrical Materials and Equipment"
+  },
+  "31200000": {
+    "send_to": [
+      "Manutenção"
+    ],
+    "category": "Electrical Materials and Equipment"
+  },
+  "31515000": {
+    "send_to": [
+      "Manutenção"
+    ],
+    "category": "Electrical Materials and Equipment"
+  },
+  "31620000": {
+    "send_to": [
+      "Manutenção"
+    ],
+    "category": "Electrical Materials and Equipment"
+  },
+  "31640000": {
+    "send_to": [
+      "AVAC",
+      "Construção"
+    ],
+    "category": "Electrical Materials and Equipment"
+  },
+  "31700000": {
+    "send_to": [
+      "Manutenção"
+    ],
+    "category": "Electrical Materials and Equipment"
+  },
+  "44100000": {
+    "send_to": [
+      "Manutenção"
+    ],
+    "category": "Electrical Materials and Equipment"
+  },
+  "44115200": {
+    "send_to": [
+      "AVAC"
+    ],
+    "category": "Electrical Materials and Equipment"
+  },
+  "44160000": {
+    "send_to": [
+      "Manutenção"
+    ],
+    "category": "Electrical Materials and Equipment"
+  },
+  "44400000": {
+    "send_to": [
+      "Manutenção"
+    ],
+    "category": "Electrical Materials and Equipment"
+  },
+  "35120000": {
+    "send_to": [
+      "Manutenção"
+    ],
+    "category": "Other Confirmed AVAC / Manutenção Codes"
+  },
+  "77313000": {
+    "send_to": [
+      "Manutenção"
+    ],
+    "category": "Other Confirmed AVAC / Manutenção Codes"
+  },
+  "77320000": {
+    "send_to": [
+      "Manutenção"
+    ],
+    "category": "Other Confirmed AVAC / Manutenção Codes"
+  },
+  "79710000": {
+    "send_to": [
+      "Manutenção"
+    ],
+    "category": "Other Confirmed AVAC / Manutenção Codes"
+  },
+  "90733400": {
+    "send_to": [
+      "Manutenção"
+    ],
+    "category": "Other Confirmed AVAC / Manutenção Codes"
+  },
+  "90910000": {
+    "send_to": [
+      "Manutenção"
+    ],
+    "category": "Other Confirmed AVAC / Manutenção Codes"
+  },
+  "98300000": {
+    "send_to": [
+      "AVAC"
+    ],
+    "category": "Other Confirmed AVAC / Manutenção Codes"
+  },
+  "98390000": {
+    "send_to": [
+      "Manutenção"
+    ],
+    "category": "Other Confirmed AVAC / Manutenção Codes"
+  },
+  "50700000": {
+    "send_to": [
+      "Manutenção"
+    ],
+    "category": "Maintenance Core"
+  },
+  "50800000": {
+    "send_to": [
+      "Manutenção"
+    ],
+    "category": "Maintenance Core"
+  },
+  "50000000": {
+    "send_to": [
+      "Manutenção"
+    ],
+    "category": "Maintenance Core"
+  }
+}
