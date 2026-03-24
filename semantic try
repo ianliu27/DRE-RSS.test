@@ -1,0 +1,390 @@
+{
+  "avac": {
+    "send_to": [
+      "AVAC",
+      "Manutenção"
+    ],
+    "category": "Heating and Cooling"
+  },
+  "chiller": {
+    "send_to": [
+      "AVAC",
+      "Manutenção"
+    ],
+    "category": "HVAC Core Terms"
+  },
+  "vrv": {
+    "send_to": [
+      "AVAC"
+    ],
+    "category": "HVAC Core Terms"
+  },
+  "vrf": {
+    "send_to": [
+      "AVAC"
+    ],
+    "category": "HVAC Core Terms"
+  },
+  "climatização": {
+    "send_to": [
+      "AVAC",
+      "Manutenção"
+    ],
+    "category": "HVAC Core Terms"
+  },
+  "desumidificação": {
+    "send_to": [
+      "AVAC",
+      "Manutenção"
+    ],
+    "category": "HVAC Core Terms"
+  },
+  "aquecimento": {
+    "send_to": [
+      "AVAC",
+      "Manutenção"
+    ],
+    "category": "HVAC Core Terms"
+  },
+  "ar condicionado": {
+    "send_to": [
+      "AVAC",
+      "Manutenção"
+    ],
+    "category": "..."
+  },
+  "ar-condicionado": {
+    "send_to": [
+      "AVAC",
+      "Manutenção"
+    ],
+    "category": "HVAC Core Terms"
+  },
+  "refrigeração": {
+    "send_to": [
+      "AVAC",
+      "Manutenção"
+    ],
+    "category": "HVAC Core Terms"
+  },
+  "energia térmica": {
+    "send_to": [
+      "AVAC",
+      "Manutenção"
+    ],
+    "category": "HVAC Core Terms"
+  },
+  "produção de energia": {
+    "send_to": [
+      "AVAC"
+    ],
+    "category": "HVAC Core Terms"
+  },
+  "central térmica": {
+    "send_to": [
+      "AVAC",
+      "Manutenção"
+    ],
+    "category": "HVAC Core Terms"
+  },
+  "ventiloconvector": {
+    "send_to": [
+      "AVAC",
+      "Manutenção"
+    ],
+    "category": "HVAC Core Terms"
+  },
+  "uta": {
+    "send_to": [
+      "AVAC",
+      "Manutenção"
+    ],
+    "category": "Ventilation Terms"
+  },
+  "unidade de tratamento de ar": {
+    "send_to": [
+      "AVAC",
+      "Manutenção"
+    ],
+    "category": "Ventilation Terms"
+  },
+  "unidades de tratamento de ar": {
+    "send_to": [
+      "AVAC",
+      "Manutenção"
+    ],
+    "category": "Ventilation Terms"
+  },
+  "extração de fumos": {
+    "send_to": [
+      "AVAC",
+      "Manutenção"
+    ],
+    "category": "Ventilation Terms"
+  },
+  "ventilação": {
+    "send_to": [
+      "AVAC",
+      "Manutenção"
+    ],
+    "category": "Ventilation Terms"
+  },
+  "desenfumagem": {
+    "send_to": [
+      "AVAC",
+      "Manutenção"
+    ],
+    "category": "Ventilation Terms"
+  },
+  "condutas": {
+    "send_to": [
+      "AVAC",
+      "Manutenção"
+    ],
+    "category": "Ventilation Terms"
+  },
+  "aqs": {
+    "send_to": [
+      "AVAC",
+      "Manutenção"
+    ],
+    "category": "Water and Thermal Systems"
+  },
+  "caldeira": {
+    "send_to": [
+      "AVAC",
+      "Manutenção"
+    ],
+    "category": "Water and Thermal Systems"
+  },
+  "rede de água quente": {
+    "send_to": [
+      "AVAC"
+    ],
+    "category": "Water and Thermal Systems"
+  },
+  "central de ega": {
+    "send_to": [
+      "AVAC"
+    ],
+    "category": "Water and Thermal Systems"
+  },
+  "ega": {
+    "send_to": [
+      "AVAC"
+    ],
+    "category": "Water and Thermal Systems"
+  },
+  "permutador": {
+    "send_to": [
+      "AVAC",
+      "Manutenção"
+    ],
+    "category": "Water and Thermal Systems"
+  },
+  "solar térmico": {
+    "send_to": [
+      "AVAC"
+    ],
+    "category": "Water and Thermal Systems"
+  },
+  "grupos eletrobomba": {
+    "send_to": [
+      "Manutenção"
+    ],
+    "category": "Water and Thermal Systems"
+  },
+  "eletrobomba": {
+    "send_to": [
+      "Manutenção"
+    ],
+    "category": "Water and Thermal Systems"
+  },
+  "compressor": {
+    "send_to": [
+      "Manutenção"
+    ],
+    "category": "Water and Thermal Systems"
+  },
+  "compressores": {
+    "send_to": [
+      "Manutenção"
+    ],
+    "category": "Water and Thermal Systems"
+  },
+  "quadros elétricos": {
+    "send_to": [
+      "Manutenção"
+    ],
+    "category": "Electrical and Controls"
+  },
+  "postos de transformação": {
+    "send_to": [
+      "Manutenção"
+    ],
+    "category": "Electrical and Controls"
+  },
+  "variador de frequência": {
+    "send_to": [
+      "AVAC",
+      "Manutenção"
+    ],
+    "category": "Electrical and Controls"
+  },
+  "variadores de frequência": {
+    "send_to": [
+      "AVAC",
+      "Manutenção"
+    ],
+    "category": "Electrical and Controls"
+  },
+  "instalações técnicas": {
+    "send_to": [
+      "Manutenção"
+    ],
+    "category": "Electrical and Controls"
+  },
+  "sistemas de deteção": {
+    "send_to": [
+      "Manutenção"
+    ],
+    "category": "Electrical and Controls"
+  },
+  "deteção de incêndios": {
+    "send_to": [
+      "Manutenção"
+    ],
+    "category": "Electrical and Controls"
+  },
+  "sadi": {
+    "send_to": [
+      "Manutenção"
+    ],
+    "category": "Electrical and Controls"
+  },
+  "scie": {
+    "send_to": [
+      "Manutenção"
+    ],
+    "category": "Electrical and Controls"
+  },
+  "ups": {
+    "send_to": [
+      "Manutenção"
+    ],
+    "category": "Electrical and Controls"
+  },
+  "fotovoltaico": {
+    "send_to": [
+      "AVAC",
+      "Manutenção"
+    ],
+    "category": "Electrical and Controls"
+  },
+  "grupo gerador": {
+    "send_to": [
+      "Manutenção"
+    ],
+    "category": "Electrical and Controls"
+  },
+  "reabilitação": {
+    "send_to": [
+      "Construção"
+    ],
+    "category": "Civil Works and Rehabilitation"
+  },
+  "elevadores": {
+    "send_to": [
+      "Manutenção"
+    ],
+    "category": "Specialized Infrastructure"
+  },
+  "manutenção multitécnica": {
+    "send_to": [
+      "AVAC",
+      "Manutenção"
+    ],
+    "category": "Maintenance Type Indicators"
+  },
+  "manutenção preventiva": {
+    "send_to": [
+      "Manutenção"
+    ],
+    "category": "Maintenance"
+  },
+  "manutenção corretiva": {
+    "send_to": [
+      "Manutenção"
+    ],
+    "category": "Maintenance Type Indicators"
+  },
+  "preventiva e curativa": {
+    "send_to": [
+      "Manutenção"
+    ],
+    "category": "Maintenance Type Indicators"
+  },
+  "assistência técnica": {
+    "send_to": [
+      "Manutenção"
+    ],
+    "category": "Maintenance Type Indicators"
+  },
+  "exploração": {
+    "send_to": [
+      "Manutenção"
+    ],
+    "category": "Maintenance Type Indicators"
+  },
+  "reabilitação energética": {
+    "send_to": [
+      "AVAC",
+      "Manutenção"
+    ],
+    "category": "Energy Renovation Terms"
+  },
+  "racionalização energética": {
+    "send_to": [
+      "AVAC",
+      "Manutenção"
+    ],
+    "category": "Energy Renovation Terms"
+  },
+  "equipamentos de frio": {
+    "send_to": [
+      "Manutenção",
+      "AVAC"
+    ],
+    "category": "Energy Renovation Terms"
+  },
+  "reabilitacao": {
+    "send_to": [
+      "Construção"
+    ],
+    "category": "..."
+  },
+  "manutenção": {
+    "send_to": [
+      "Manutenção"
+    ],
+    "category": "Maintenance Type Indicators"
+  },
+  "manutencao": {
+    "send_to": [
+      "Manutenção"
+    ],
+    "category": "Maintenance Type Indicators"
+  },
+  "higienização": {
+    "send_to": [
+      "Manutenção"
+    ],
+    "category": "Maintenance Type Indicators"
+  },
+  "reparação": {
+    "send_to": [
+      "Manutenção"
+    ],
+    "category": "Maintenance Type Indicators"
+  }
+}
